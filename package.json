@@ -1,0 +1,25 @@
+{
+  "name": "the-chart-room",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "An automatic hydrographic drafting engine — it surveys seas that do not exist.",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fontsource/im-fell-english": "^5.0.13",
+    "@fontsource/im-fell-english-sc": "^5.0.13",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.5",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "typescript": "~5.6.2",
+    "vite": "^5.4.8"
+  }
+}
